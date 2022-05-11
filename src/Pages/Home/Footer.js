@@ -7,7 +7,7 @@ const Footer = () => {
             background: `url(${footer})`, 
             backgroundSize: 'cover'
             }} className="p-10 ">
-            <dvi className="footer ">
+            <div className="footer ">
                 <div>
                 <span className="footer-title">Services</span> 
                 <a className="link link-hover">Branding</a>
@@ -28,7 +28,7 @@ const Footer = () => {
                 <a className="link link-hover">Privacy policy</a>
                 <a className="link link-hover">Cookie policy</a>
                 </div>
-            </dvi>
+            </div>
             <div className='my-10 text-center'>
                 <p>Copyright © 2022 - All right reserved by ACME Industries Ltd</p>
             </div>
